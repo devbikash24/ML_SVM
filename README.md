@@ -1,2 +1,3 @@
 # ML_SVM
-All the projects on SVM
+This repo consists of Projects associated with SVM and some learning materials
+
